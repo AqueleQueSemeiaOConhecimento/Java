@@ -1,0 +1,61 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "dadoone",
+            "request": "launch",
+            "mainClass": "dadoone",
+            "projectName": "JAVA_c53b1be3",
+            "vmArgs": "--module-path \"C:/Users/d3rr3/Documents/openjfx-21.0.1_windows-x64_bin-sdk (1)/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "dadoOne",
+            "request": "launch",
+            "mainClass": "dadoOne",
+            "projectName": "JAVA_c53b1be3",
+            "vmArgs": "--module-path \"C:/Users/d3rr3/Documents/openjfx-21.0.1_windows-x64_bin-sdk (1)/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "olamundojavafx",
+            "request": "launch",
+            "mainClass": "olamundojavafx",
+            "projectName": "JAVA_c53b1be3",
+            "vmArgs": "--module-path \"C:/Users/d3rr3/Documents/openjfx-21.0.1_windows-x64_bin-sdk (1)/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "--module-path \"C:/Users/d3rr3/Documents/openjfx-21.0.1_windows-x64_bin-sdk (1)/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "JAVA_c53b1be3"
+        },
+        {
+            "type": "java",
+            "name": "DateAndHour",
+            "request": "launch",
+            "mainClass": "DateAndHour",
+            "projectName": "JAVA_c53b1be3"
+        },
+        {
+            "type": "java",
+            "name": "swingandjava",
+            "request": "launch",
+            "mainClass": "swingandjava",
+            "projectName": "JAVA_c53b1be3",
+            "vmArgs": "--module-path \"C:/Users/d3rr3/Documents/openjfx-21.0.1_windows-x64_bin-sdk (1)/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
